@@ -1,8 +1,10 @@
+/* Universal rule for entire document*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+/* End universal rule*/
 
 body {
     background-color: #d9dcd6;
@@ -133,7 +135,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Rules for SEO begin */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -142,6 +144,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+/* SEO End */
 
 .online-reputation-management {
     margin-bottom: 20px;
