@@ -20,9 +20,6 @@ body {
 .header h1 {
     display: inline-block;
     font-size: 48px;
-}
-
-.header h1 {
     color: #d9dcd6;
     text-decoration: none;
 }
@@ -36,19 +33,18 @@ body {
 }
  header nav {
      float: right;
-     margin: 20px 0;
+     margin: 0px 0;
+     
  }
 .header nav ul li {
     display: inline;
-    margin: 0 15px;
-    padding: 10px 15px 35px 40px;
 }
 
 .header nav ul li a {
     margin: 0 30px;
     font-weight: lighter;
     font-size: 18px;
-    padding: 10px 15px 35px 40px;
+    padding: 35px;
     display: inline;
 }
 
@@ -150,6 +146,12 @@ p {
 /*end info*/
 
 /*begin content*/
+.text-right {
+    text-align: right;
+}
+.text-left {
+    text-align: left;
+}
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
