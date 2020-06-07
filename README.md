@@ -10,8 +10,9 @@ HTML and CSS
 file:///C:/Users/melan/OneDrive/Desktop/weeklychallenge/urban-octo-telegram/Develop/index.html#search-engine-optimization
 
 ## Screenshot 
-<img src="./assets/images/Screenshot(4).png">
-<img src="./assets/images/Screenshot(6).png">
+C:\Users\melan\OneDrive\Desktop\weeklychallenge\urban-octo-telegram\Develop\assets\images\Screenshot (6).png
+
+C:\Users\melan\OneDrive\Desktop\weeklychallenge\urban-octo-telegram\Develop\assets\images\Screenshot (4).png
 
 ## Contribution
 Melanie Gilman
