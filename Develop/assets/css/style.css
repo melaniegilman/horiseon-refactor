@@ -1,17 +1,17 @@
-/* Universal rule for entire document*/
+/*begin universal rule*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-/* End universal rule*/
+/*end universal rule*/
 
 body {
     background-color: #d9dcd6;
 }
-
+/*begin header*/
 .header {
-    padding: 20px;
+    padding: 20px 35px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
@@ -22,26 +22,36 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+.header h1 {
     color: #d9dcd6;
+    text-decoration: none;
 }
 
-.header div {
+.header section {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
-.header div ul {
-    list-style-type: none;
+ header nav {
+     float: right;
+     margin: 20px 0;
+ }
+.header nav ul li {
+    display: inline;
+    margin: 0 15px;
+    padding: 10px 15px 35px 40px;
 }
 
-.header div ul li {
-    display: inline-block;
-    margin-left: 25px;
+.header nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 18px;
+    padding: 10px 15px 35px 40px;
+    display: inline;
 }
+
 
 a {
     color: #ffffff;
@@ -76,7 +86,9 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/*end header*/
 
+/*begin info*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -135,7 +147,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/* Rules for SEO begin */
+/*end info*/
+
+/*begin content*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -144,7 +158,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/* SEO End */
+
 
 .online-reputation-management {
     margin-bottom: 20px;
@@ -190,14 +204,4 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-.footer h2 {
-    font-size: 20px;
-}
+/*end content*/
