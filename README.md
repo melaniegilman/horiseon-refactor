@@ -1,13 +1,17 @@
 # Horiseon website code refactoring
 
-##Purpose
+## Purpose
 This project takes the learner through the steps and process of refactoring starter code to make a website more accesible and to make the code cleaner.
 
-##Built With
+## Built With
 HTML and CSS
 
-##Website
+## Website
 file:///C:/Users/melan/OneDrive/Desktop/weeklychallenge/urban-octo-telegram/Develop/index.html#search-engine-optimization
 
-##Contribution
+## Screenshot 
+<img src="./assets/images/Screenshot(4).png">
+<img src="./assets/images/Screenshot(6).png">
+
+## Contribution
 Melanie Gilman
