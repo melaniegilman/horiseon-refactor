@@ -7,7 +7,7 @@ This project asks the learner to go through the steps and processes of refactori
 HTML and CSS
 
 ## Website
-file:///C:/Users/melan/OneDrive/Desktop/weeklychallenge/urban-octo-telegram/Develop/index.html#search-engine-optimization
+https://melaniegilman.github.io/horiseon-refactor/
 
 ## Screenshot 
 ![Screenshot of top of page](Develop\assets\images\screenshot10.png)
