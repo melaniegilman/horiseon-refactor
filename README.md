@@ -4,7 +4,8 @@
 This project asks the learner to go through the steps and processes of refactoring starter code to make a website more accesible and to make the code cleaner by implementing HTML semantics and repairing broken code.
 
 ## Built With
-HTML and CSS
+* HTML
+* CSS
 
 ## Website
 https://melaniegilman.github.io/horiseon-refactor/
