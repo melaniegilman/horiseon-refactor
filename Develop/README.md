@@ -1,7 +1,7 @@
 # Horiseon website code refactoring
 
 ## Purpose
-This project asks the learner to go through the steps and processes of refactoring starter code to make a website more accesible and to make the code cleaner by implementing HTML semantics, consolidating CSS, and repairing broken code.
+This project asks the learner to go through the steps and processes of refactoring starter code to make a website more accesible and to make the code cleaner by implementing HTML semantics, consolidating CSS,horise and repairing broken code.
 
 ## Built With
 HTML and CSS
